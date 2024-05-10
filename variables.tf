@@ -23,12 +23,12 @@ variable "NODE_MACHINE_TYPE" {
 
 variable "GKE_CLUSTER_NAME" {
   type        = string
-  default     = "balu"
+  default     = "main"
   description = "GKE cluster name"
 }
 
 variable "GKE_POOL_NAME" {
   type        = string
-  default     = "balu"
+  default     = "main"
   description = "GKE pool name"
 }
