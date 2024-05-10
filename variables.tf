@@ -5,7 +5,7 @@ variable "GOOGLE_PROJECT" {
 
 variable "GOOGLE_REGION" {
   type        = string
-  default     = "us-central1-c"
+  default     = "g1-small"
   description = "GCP region to use"
 }
 
