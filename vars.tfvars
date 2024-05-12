@@ -1,4 +1,4 @@
-GOOGLE_PROJECT = "balu-gcp"
+GOOGLE_PROJECT = "My-Project-94267"
 GOOGLE_REGION  = "us-central1-c"
 GKE_NUM_NODES  = 2
 NODE_MACHINE_TYPE = "g1-small"
