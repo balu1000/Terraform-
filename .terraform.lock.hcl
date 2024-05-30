@@ -17,7 +17,7 @@ provider "registry.terraform.io/hashicorp/google" {
     "zh:83c8ecd116387032f7c4a1d9d4d921529746ce6e81d0766c9a0780c0b2e12993",
     "zh:bfd2d4cb2daba199db49a33ff507c808a3c94a657e4597b8bd6f2de51dc7a729",
     "zh:d9fd24b3d492013bca0021f29bfb670b76f01df5fd45f62c61eec53adac1b47d",
-    "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b91111",
   ]
 }
 
@@ -36,6 +36,6 @@ provider "registry.terraform.io/hashicorp/local" {
     "zh:7ae387993a92bcc379063229b3cce8af7eaf082dd9306598fcd42352994d2de0",
     "zh:9e0f365f807b088646db6e4a8d4b188129d9ebdbcf2568c8ab33bddd1b82c867",
     "zh:b5263acbd8ae51c9cbffa79743fbcadcb7908057c87eb22fd9048268056efbc4",
-    "zh:dfcd88ac5f13c0d04e24be00b686d069b4879cc4add1b7b1a8ae545783d97520",
+    "zh:dfcd88ac5f13c0d04e24be00b686d069b4879cc4add1b7b1a8ae545783d97111",
   ]
 }
